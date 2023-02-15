@@ -1,4 +1,6 @@
-# Projeto 1 - Desenvolvimento de um jogo da forca
+# Projeto 1 - Desenvolvimento de um jogo da forca versão 1
+# Desenvolvido por Alexandre Drops https://www.linkedin.com/in/alexandredrops/
+# A partir do curso Fundamentos de Linguagem Python Para Análise de Dados e Data Science da DSA com melhorias implementadas por mim. 
 
 # import
 import random
